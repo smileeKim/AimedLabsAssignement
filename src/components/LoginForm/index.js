@@ -15,7 +15,7 @@ import {
   BackButton,
 } from './styledComponents'
 
-class RegistrationForm extends Component {
+class LoginForm extends Component {
   state = {
     username: '',
     password: '',
@@ -186,4 +186,4 @@ class RegistrationForm extends Component {
   }
 }
 
-export default RegistrationForm
+export default LoginForm

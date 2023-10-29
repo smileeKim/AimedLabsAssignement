@@ -1,7 +1,7 @@
-import RegistrationForm from './components/RegistrationForm'
+import LoginForm from './components/LoginForm'
 
 import './App.css'
 
-const App = () => <RegistrationForm />
+const App = () => <LoginForm />
 
 export default App
